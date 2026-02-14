@@ -9,10 +9,10 @@ format: html
 # **Introduction**
 Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
 
-**Lit Review concept A**
+**Lit Review Concept A**
 Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
 
-**Lit Review concept B**
+**Lit Review Concept B**
 Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
 
 **Current Research**
@@ -48,12 +48,14 @@ Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ip
 Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
 
 ***Figure 1: Descriptive Statistics***
-| Variable   | Mean   | Std. Dev  | Min   | Max   |
-| ---------- | ------ | --------- | ----- | ----- |
-| Aaa        | Xxxx   | Xxxx      | Xxxx  | Xxxx  |
-| Bbb        | Xxxx   | Xxxx      | Xxxx  | Xxxx  |
-| Ccc        | Xxxx   | Xxxx      | Xxxx  | Xxxx  |
-| Ddd        | Xxxx   | Xxxx      | Xxxx  | Xxxx  |
+
+| Variable| Mean | Std. Dev | Median |
+|---------|:-----|---------:|:------:|
+| Aaa     | XX   |   XX     |   XX   |
+| Bbb     | XX   |   XX     |   XX   |
+| Ccc     | XX   |   XX     |   XX   |
+
+: Example with pipe syntax
 
 *Result B*
 Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
